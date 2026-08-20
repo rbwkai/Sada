@@ -1,0 +1,2006 @@
+﻿1,ال,al,the,article
+2,و,wa,and,conjunction
+3,ف,fa,so;then,conjunction
+4,ثم,thumma,then,adverb
+5,أو,aw,or,conjunction
+6,أم,am,or in questions,conjunction
+7,لكن,lakin,but,conjunction
+8,بل,bal,rather;instead,conjunction
+9,حتى,hatta,until;even,preposition/conjunction
+10,إذا,idha,if;when,conjunction
+11,إن,in,if,conjunction
+12,أن,an,that;to,particle
+13,أنّ,anna,that;indeed,particle
+14,لأن,li-anna,because,conjunction
+15,لعل,la-alla,perhaps,particle
+16,كي,kay,so that,conjunction
+17,لكي,li-kay,in order to,conjunction
+18,إذن,idhan,then;in that case,particle
+19,إلا,illa,except,particle
+20,غير,ghayr,other than;non-,noun
+21,ليس,laysa,is not,verb
+22,ما,ma,what;not,particle
+23,لا,la,not;no,particle
+24,لم,lam,did not,particle
+25,لن,lan,will not,particle
+26,لما,lamma,not yet;when,particle
+27,قد,qad,already;may,particle
+28,سوف,sawfa,will,particle
+29,سـ,sa,future marker,particle
+30,هل,hal,whether;do,particle
+31,أ,a,question marker,particle
+32,يا,ya,O;vocative,particle
+33,نعم,na-am,yes,adverb
+34,كلا,kalla,no;never,adverb
+35,بلى,bala,yes indeed,adverb
+36,أيضًا,aydan,also,adverb
+37,فقط,faqat,only,adverb
+38,جداً,jiddan,very,adverb
+39,دائمًا,dayiman,always,adverb
+40,غالبًا,ghaliban,usually,adverb
+41,أحيانًا,ahyanan,sometimes,adverb
+42,نادرًا,nadir-an,rarely,adverb
+43,الآن,al-an,now,adverb
+44,اليوم,al-yawm,today,noun/adverb
+45,غدًا,ghadan,tomorrow,noun/adverb
+46,أمس,ams,yesterday,noun/adverb
+47,هنا,huna,here,adverb
+48,هناك,hunaka,there,adverb
+49,حيث,hayth,where;wherever,adverb
+50,حيثما,haythuma,wherever,adverb
+51,متى,mata,when,adverb
+52,أين,ayna,where,adverb
+53,كيف,kayfa,how,adverb
+54,لماذا,limadha,why,adverb
+55,كم,kam,how many;how much,adverb
+56,أي,ayy,which;any,determiner
+57,من,man / min,who;from,pronoun/preposition
+58,منذ,mundhu,since,preposition
+59,عن,an,about;from,preposition
+60,إلى,ila,to;toward,preposition
+61,في,fi,in;at,preposition
+62,على,ala,on;upon,preposition
+63,تحت,taht,under,preposition
+64,فوق,fawq,above,preposition
+65,بين,bayn,between,preposition
+66,مع,ma-a,with,preposition
+67,بدون,bidun,without,preposition
+68,ضد,didda,against,preposition
+69,نحو,nahw,toward;approximately,preposition
+70,قبل,qabl,before,adverb/preposition
+71,بعد,ba-d,after,adverb/preposition
+72,خلال,khilal,during,preposition
+73,حول,hawl,around;about,preposition
+74,أثناء,athna,during,preposition
+75,أمام,amam,in front of,preposition
+76,خلف,khalf,behind,preposition
+77,داخل,dakhil,inside,preposition
+78,خارج,kharij,outside,preposition
+79,قرب,qurb,near,preposition
+80,بعيدًا,ba-idan,far away,adverb
+81,من أجل,min ajl,for the sake of,preposition
+82,بسبب,bisabab,because of,preposition
+83,رغم,raghm,despite,preposition
+84,بفضل,bifadl,thanks to,preposition
+85,مثل,mithl,like;such as,preposition/noun
+86,حسب,hasab,according to,preposition
+87,لدى,lada,at;with,preposition
+88,لدي,ladayya,I have,preposition
+89,عند,inda,at;with,preposition
+90,إزاء,iza,toward;in the face of,preposition
+91,بدل,badal,instead of,preposition
+92,باستثناء,bi-istithna,except for,preposition
+93,عبر,abr,across;through,preposition
+94,من خلال,min khilal,through,preposition
+95,بالرغم من,bir-raghm min,despite,preposition
+96,بناء على,bina-an ala,based on,preposition
+97,وفق,wifq,according to,preposition
+98,وفقًا,wifqan,according to,adverb
+99,أما,amma,as for,particle
+100,أما ... فـ,amma ... fa,as for ... then,construction
+101,بينما,baynama,while;whereas,conjunction
+102,كلما,kullama,whenever,conjunction
+103,بعدما,ba-dama,after,conjunction
+104,قبلما,qablama,before,conjunction
+105,عندما,indama,when,conjunction
+106,حينما,hinama,when,conjunction
+107,كما,kama,as;just as,conjunction
+108,مثلما,mithlama,just as,conjunction
+109,بما أن,bima anna,since;given that,conjunction
+110,بمجرد أن,bimujarrad an,as soon as,conjunction
+111,منذ أن,mundhu an,since,conjunction
+112,حتى لو,hatta law,even if,conjunction
+113,لو,law,if;would,conjunction
+114,لولا,lawla,if not;were it not for,particle
+115,لو كان,law kana,if it were,construction
+116,إنما,innama,only;indeed,particle
+117,لا سيما,la siyama,especially,particle
+118,بالطبع,bit-tab,of course,adverb
+119,حقًا,haqqan,really;truly,adverb
+120,فعلاً,fi-lan,actually,adverb
+121,ربما,rubbama,perhaps,adverb
+122,تقريبًا,taqriban,approximately,adverb
+123,خصوصًا,khususan,especially,adverb
+124,معًا,ma-an,together,adverb
+125,بسرعة,bisur-a,quickly,adverb
+126,ببطء,bibat,slowly,adverb
+127,عادة,adatan,usually,adverb
+128,مباشرة,mubasharatan,directly,adverb
+129,أخيرًا,akhiran,finally,adverb
+130,أولًا,awwal-an,firstly,adverb
+131,ثانيًا,thaniyan,secondly,adverb
+132,أخير,akhir,last;final,adjective
+133,هكذا,hakadha,like this,adverb
+134,هكذاك,hakadhak,like that,adverb
+135,كذلك,kadhalik,likewise;also,adverb
+136,ذلك,dhalik,that,pronoun
+137,هذا,hadha,this,pronoun
+138,هذه,hadhihi,this feminine,pronoun
+139,هذان,hadhani,these two masculine,pronoun
+140,هاتان,hatani,these two feminine,pronoun
+141,هؤلاء,haulai,these,pronoun
+142,أولئك,ulaika,those,pronoun
+143,الذي,alladhi,who;which masculine,relative pronoun
+144,التي,allati,who;which feminine,relative pronoun
+145,اللذان,alladhani,who;which two masculine,relative pronoun
+146,اللتان,allatani,who;which two feminine,relative pronoun
+147,الذين,alladhina,who;which plural,relative pronoun
+148,اللاتي,allati,who;which feminine plural,relative pronoun
+149,ماذا,madha,what,pronoun
+150,شيء,shay,thing,noun
+151,أحد,ahad,someone;anyone,pronoun/noun
+152,أحدهم,ahaduhum,one of them,pronoun
+153,كل,kull,all;every,determiner
+154,كلاهما,kilahuma,both of them,pronoun
+155,بعض,bad,some;part,determiner/noun
+156,بعضهم,baduhum,some of them,pronoun
+157,نفس,nafs,same;self,noun
+158,نفسه,nafsuhu,himself;itself,pronoun
+159,كلهم,kulluhum,all of them,pronoun
+160,معظم,mu-zam,most,determiner
+161,أكثر,akthar,more;most,adjective/adverb
+162,أقل,aqall,less;least,adjective/adverb
+163,كثير,kathir,much;many,determiner/adjective
+164,قليل,qalil,little;few,determiner/adjective
+165,غيرهما,ghayruhuma,other than the two,pronoun
+166,آخر,akhar,other;another,adjective
+167,أخرى,ukhra,another;other feminine,adjective
+168,الأول,al-awwal,first,adjective
+169,الثاني,ath-thani,second,adjective
+170,الثالث,ath-thalith,third,adjective
+171,الرابع,ar-rabi,fourth,adjective
+172,الخامس,al-khamis,fifth,adjective
+173,واحد,wahid,one,numeral
+174,اثنان,ithnan,two,numeral
+175,ثلاثة,thalatha,three,numeral
+176,أربعة,arbaa,four,numeral
+177,خمسة,khamsa,five,numeral
+178,ستة,sitta,six,numeral
+179,سبعة,sabaa,seven,numeral
+180,ثمانية,thamaniya,eight,numeral
+181,تسعة,tisaa,nine,numeral
+182,عشرة,ashara,ten,numeral
+183,مئة,mi-a,hundred,numeral/noun
+184,ألف,alf,thousand,numeral/noun
+185,مليون,milyun,million,noun
+186,مرة,marra,time;once,noun
+187,مرات,marrat,times,noun
+188,إذ,idh,when;as,adverb
+189,إذًا,idhan,then,particle
+190,حين,hin,time;when,noun
+191,آنذاك,anadhak,then;at that time,adverb
+192,لاحقًا,lahiqun,later,adverb
+193,مؤخرًا,muakhkharan,recently,adverb
+194,مسبقًا,musbaqan,in advance,adverb
+195,أبدًا,abadan,ever;never,adverb
+196,قط,qatt,ever;at all,adverb
+197,بتاتًا,batan,at all,adverb
+198,مع ذلك,ma-a dhalik,nevertheless,connector
+199,ومع ذلك,wa ma-a dhalik,nevertheless,connector
+200,لذلك,li-dhalik,therefore,connector
+201,لذا,li-dha,therefore,connector
+202,ولهذا,wa li-hadha,for this reason,connector
+203,بالتالي,bit-tali,consequently,connector
+204,إضافة إلى,idafatan ila,in addition to,preposition
+205,بالإضافة إلى,bil-idafa ila,in addition to,preposition
+206,على الرغم من,ala ar-raghm min,although;despite,preposition
+207,من ناحية,min nahya,from one side,phrase
+208,من جهة,min jiha,on the one hand,phrase
+209,من جهة أخرى,min jiha ukhra,on the other hand,phrase
+210,في المقابل,fi-l-muqabil,in contrast,adverbial phrase
+211,على الأقل,ala al-aqall,at least,phrase
+212,على الأكثر,ala al-akthar,at most,phrase
+213,في الواقع,fi al-waqi,in fact,phrase
+214,في الوقت نفسه,fi al-waqt nafsihi,at the same time,phrase
+215,في النهاية,fi an-nihaya,in the end,phrase
+216,في البداية,fi al-bidaya,at first,phrase
+217,من ناحية أخرى,min nahya ukhra,on the other hand,phrase
+218,على أي حال,ala ayyi hal,in any case,phrase
+219,مهما,mahma,whatever;no matter how,conjunction
+220,أيًا كان,ayyan kana,whatever it may be,construction
+221,وسائل الإعلام,wasail al-iam,media,phrase
+222,أينما,aynama,wherever,conjunction
+223,كيفما,kayfama,however,conjunction
+224,متى ما,mata ma,whenever,conjunction
+225,أنما,annama,wherever;that,conjunction
+226,قال,qala,say;said,verb
+227,كان,kana,be;was,verb
+228,أصبح,asbaha,become;be in the morning,verb
+229,أمسى,amsa,become;be in the evening,verb
+230,ظل,zalla,remain;continue,verb
+231,بات,bata,spend the night;remain,verb
+232,صار,sara,become,verb
+233,وجد,wajada,find;exist,verb
+234,حصل,hasala,happen;obtain,verb
+235,حدث,hadatha,happen,verb
+236,وقع,waqa-a,occur;fall,verb
+237,جاء,jaa,come,verb
+238,أتى,ata,come;bring,verb
+239,ذهب,dhahaba,go,verb
+240,عاد,ada,return,verb
+241,رجع,rajaa,return,verb
+242,دخل,dakhala,enter,verb
+243,خرج,kharaja,leave;exit,verb
+244,وصل,wasala,arrive;reach,verb
+245,بقي,baqiya,remain,verb
+246,جلس,jalasa,sit,verb
+247,وقف,waqafa,stand;stop,verb
+248,نام,nama,sleep,verb
+249,استيقظ,istayqaza,wake up,verb
+250,بدأ,badaa,begin,verb
+251,أثر,aththara,affect,verb
+252,أجاب,ajaba,answer,verb
+253,أحضر,ahdara,bring,verb
+254,أخبر,akhbara,tell,verb
+255,أخذ,akhadha,take,verb
+256,أدار,adara,manage,verb
+257,أراد,arada,want,verb
+258,أرسل,arsala,send,verb
+259,أزال,azala,remove,verb
+260,أشار,ashara,point;refer,verb
+261,أصاب,asaba,hit;affect;strike,verb
+262,أصلح,aslaha,fix;reform,verb
+263,أضاف,adafa,add,verb
+264,أعان,aana,assist,verb
+265,أعطى,ata,give,verb
+266,أعلن,alana,announce,verb
+267,أغلق,aghlaqa,close,verb
+268,أكد,akkada,confirm;emphasize,verb
+269,أكمل,akmala,complete,verb
+270,أنتج,antaja,produce,verb
+271,أنفق,anfaqa,spend,verb
+272,أوضح,awdaha,clarify,verb
+273,ابتعد,ibtada,move away,verb
+274,اتخذ,ittakhadha,take;adopt,verb
+275,اتصل,ittasala,contact,verb
+276,اتفق,ittafaqa,agree,verb
+277,احتاج,ihtaja,need,verb
+278,احتفل,ihtafala,celebrate,verb
+279,احتوى,ihtawa,contain,verb
+280,اختار,ikhtara,choose,verb
+281,اختبر,ikhtabara,test,verb
+282,اخترع,ikhtaraa,invent,verb
+283,اختلف,ikhtalafa,differ;disagree,verb
+284,استأجر,ista-jara,rent,verb
+285,استبعد,istabada,exclude,verb
+286,استثمر,istathmara,invest,verb
+287,استحق,istaḥaqqa,deserve,verb
+288,استخدم,istakhdama,use,verb
+289,استطاع,istataa,be able,verb
+290,استعاد,istaada,recover;retrieve,verb
+291,استعمل,istamala,use,verb
+292,استقبل,istaqbala,receive;welcome,verb
+293,استلم,istalama,receive,verb
+294,استمر,istamarra,continue,verb
+295,استمع,istama-a,listen,verb
+296,استنتج,istantaja,conclude,verb
+297,استند,istannada,be based on,verb
+298,استهلك,istahlaka,consume,verb
+299,استورد,istawrada,import,verb
+300,اشترى,ishtara,buy,verb
+301,اعتقد,iataqada,believe,verb
+302,اعتمد,iatamada,rely;depend,verb
+303,افترض,iftarada,assume,verb
+304,اقترب,iqtaraba,approach,verb
+305,اقترح,iqtaraha,suggest,verb
+306,اكتشف,iktashafa,discover,verb
+307,التقى,iltaqa,meet,verb
+308,امتلك,imtalaka,possess,verb
+309,انتبه,intabaha,pay attention,verb
+310,انتهى,intaha,end;finish,verb
+311,انضم,indamma,join,verb
+312,باع,baa,sell,verb
+313,بحث,bahatha,search;research,verb
+314,بنى,bana,build,verb
+315,تأكد,ta-akkada,make sure,verb
+316,تجنب,tajanabba,avoid,verb
+317,تحدث,tahaddatha,speak;talk,verb
+318,تحرك,taharraka,move,verb
+319,تحقق,tahaqqaqa,verify,verb
+320,تحول,tahawwala,transform,verb
+321,تخيل,takhayyala,imagine,verb
+322,تذكر,tadhakkara,remember,verb
+323,ترك,taraka,leave,verb
+324,تطور,tatāwwara,develop;progress,verb
+325,تعاون,taawana,cooperate,verb
+326,تعلم,taallama,learn,verb
+327,تكلم,takallama,speak,verb
+328,توقع,tawaqqaa,expect,verb
+329,توقف,tawaqqafa,stop,verb
+330,جرّب,jarraba,try;test,verb
+331,جمع,jamaa,collect;gather,verb
+332,حافظ,hafaza,maintain;preserve,verb
+333,حاول,hawala,try,verb
+334,حدد,haddada,determine,verb
+335,حذر,hadhdhara,warn,verb
+336,حضر,hadara,attend,verb
+337,حفظ,hafiza,memorize;preserve,verb
+338,حقق,haqqaqa,achieve,verb
+339,حل,halla,solve,verb
+340,حلل,hallala,analyze,verb
+341,حمل,hamala,carry,verb
+342,خدم,khadama,serve,verb
+343,خسر,khasira,lose,verb
+344,خطط,khattata,plan,verb
+345,خفض,khafada,lower,verb
+346,دافع,dafa-a,defend,verb
+347,درس,darasa,study,verb
+348,دعا,daa,invite;call,verb
+349,دعم,da-ama,support,verb
+350,دفع,dafa-a,pay;push,verb
+351,ذكر,dhakara,mention;remember,verb
+352,رأى,raa,see,verb
+353,راقب,raqaba,observe,verb
+354,ربح,rabiha,profit;win,verb
+355,رتب,rattaba,arrange,verb
+356,رسم,rasama,draw,verb
+357,رفض,rafada,refuse,verb
+358,رفع,rafa-a,raise;lift,verb
+359,زاد,zada,increase,verb
+360,زار,zara,visit,verb
+361,سأل,saala,ask,verb
+362,ساعد,saada,help,verb
+363,سافر,safara,travel,verb
+364,سبب,sabbaba,cause,verb
+365,سمع,samia,hear,verb
+366,سيطر,saytara,control,verb
+367,شارك,sharaka,participate,verb
+368,شاهد,shahada,watch;see,verb
+369,شرح,sharaha,explain,verb
+370,شفي,shufiya,recover,verb
+371,شمل,shamila,include,verb
+372,صدّر,saddara,export,verb
+373,صغر,saghura,be small,verb
+374,صلح,salaha,repair;be good,verb
+375,صمم,sammama,design,verb
+376,صنع,sanaa,make;manufacture,verb
+377,ضعف,da-ufa,weaken,verb
+378,طبق,tabaqa,apply,verb
+379,طور,tawwara,develop,verb
+380,ظن,zanna,think;suppose,verb
+381,عارض,arada,oppose,verb
+382,عدّ,adda,count,verb
+383,عرف,arafa,know;recognize,verb
+384,علم,alima,know,verb
+385,علّم,allama,teach,verb
+386,عمل,amila,work;do,verb
+387,غادر,ghadara,depart,verb
+388,غيّر,ghayyara,change,verb
+389,فاز,faza,win,verb
+390,فتح,fataha,open,verb
+391,فشل,fashila,fail,verb
+392,فضّل,faddala,prefer,verb
+393,فعل,faala,do,verb
+394,فكر,fakkara,think,verb
+395,فهم,fahima,understand,verb
+396,قابل,qabila,meet,verb
+397,قاد,qada,lead,verb
+398,قارن,qarana,compare,verb
+399,قاس,qasa,measure,verb
+400,قدر,qadara,be able;estimate,verb
+401,قرأ,qaraa,read,verb
+402,قرر,qarrara,decide,verb
+403,قسّم,qassama,divide,verb
+404,قوي,qawiya,become strong,verb
+405,قيّم,qayyama,evaluate,verb
+406,كبر,kabura,grow;become big,verb
+407,كتب,kataba,write,verb
+408,كسب,kasaba,earn,verb
+409,كسر,kasara,break,verb
+410,لاحظ,lahaza,notice,verb
+411,لعب,laiba,play,verb
+412,ملك,malaka,own,verb
+413,منع,manaa,prevent;ban,verb
+414,ناقش,naqasha,discuss,verb
+415,نتج,nataja,result,verb
+416,نجح,najaha,succeed,verb
+417,نسي,nasiya,forget,verb
+418,نشر,nashara,publish;spread,verb
+419,نصح,nasaha,advise,verb
+420,نظر,nazara,look;consider,verb
+421,نظم,nazama,organize,verb
+422,نفذ,naffadha,implement,verb
+423,نقص,naqasa,decrease,verb
+424,هدم,hadama,demolish,verb
+425,هندس,handasa,engineer,verb
+426,واجه,wajaha,face,verb
+427,وافق,wafaqa,agree,verb
+428,وصف,wasafa,describe,verb
+429,وضع,wadaa,put;place,verb
+430,وفر,waffara,save;provide,verb
+431,وفّر,waffara,provide;save,verb
+432,أنجز,anjaza,accomplish,verb
+433,تعامل,taamala,deal with,verb
+434,تصرف,tasarrafa,behave;act,verb
+435,سمح,samaha,allow,verb
+436,أجاز,ajaza,permit,verb
+437,فرض,farada,impose,verb
+438,طلب,talaba,request;seek,verb
+439,استفاد,istafada,benefit,verb
+440,تأثر,ta-aththara,be affected,verb
+441,أدى,adda,lead to;perform,verb
+442,يعني,ya-ni,mean,verb
+443,سمى,samma,name,verb
+444,عين,ayyana,appoint;specify,verb
+445,هاجم,hajama,attack,verb
+446,حارب,haraba,fight,verb
+447,قتل,qatala,kill,verb
+448,مات,mata,die,verb
+449,عاش,asha,live,verb
+450,ولد,wulida,be born,verb
+451,تزوج,tazawwaja,get married,verb
+452,طلق,tallaqa,divorce,verb
+453,ربى,rabba,raise;educate,verb
+454,نشأ,nashaa,grow up,verb
+455,مرض,marida,be ill,verb
+456,عالج,alaja,treat,verb
+457,استراح,istaraha,rest,verb
+458,تنفس,tanaffasa,breathe,verb
+459,أكل,akala,eat,verb
+460,شرب,shariba,drink,verb
+461,طبخ,tabakha,cook,verb
+462,غسل,ghasala,wash,verb
+463,نظف,nazafa,clean,verb
+464,لبس,labisa,wear,verb
+465,خلع,khalaa,take off,verb
+466,ركب,rakiba,ride;board,verb
+467,ساق,saqa,drive,verb
+468,سقط,saqata,fall,verb
+469,صعد,saida,go up,verb
+470,نزل,nazala,go down,verb
+471,مر,marra,pass,verb
+472,تبع,tabia,follow,verb
+473,سبق,sabaqa,precede,verb
+474,لحق,laḥiqa,catch up,verb
+475,هرب,haraba,escape,verb
+476,ركض,rakada,run,verb
+477,مشى,masha,walk,verb
+478,جرى,jara,run;flow,verb
+479,طاف,tafa,go around,verb
+480,استلقى,istalqa,lie down,verb
+481,ضحك,dahika,laugh,verb
+482,بكى,baka,cry,verb
+483,ابتسم,ibtasama,smile,verb
+484,حزن,hazina,be sad,verb
+485,فرح,fariha,be happy,verb
+486,غضب,ghadiba,get angry,verb
+487,خاف,khafa,fear,verb
+488,أحب,ahabba,love,verb
+489,كره,kariha,hate,verb
+490,رغب,raghiba,desire,verb
+491,اشتاق,ishtaqa,long for,verb
+492,احترم,ihtarama,respect,verb
+493,ثق,thaqa,trust,verb
+494,شك,shakka,doubt,verb
+495,تمنى,tamanna,wish,verb
+496,آمن,amana,believe,verb
+497,أمل,amala,hope,verb
+498,خيب,khayyaba,disappoint,verb
+499,سعد,sa-ida,be happy,verb
+500,رضي,radiya,be satisfied,verb
+501,نجا,naja,survive;escape,verb
+502,استسلم,istaslama,surrender,verb
+503,انتصر,intasara,triumph,verb
+504,انهزم,inhazama,be defeated,verb
+505,نافس,naafasa,compete,verb
+506,شكر,shakara,thank,verb
+507,سامح,samaha,forgive,verb
+508,اعتذر,itadhara,apologize,verb
+509,وعد,waada,promise,verb
+510,كذب,kadhdhab,lie,verb
+511,صدق,sadaqa,be truthful,verb
+512,سرق,saraqa,steal,verb
+513,أعاد,aada,return;repeat,verb
+514,احتفظ,ihtafaza,keep,verb
+515,فقد,faqada,lose,verb
+516,استغل,istaghalla,exploit,verb
+517,سوق,suq,market,noun
+518,نتيجة لذلك,natijatan li-dhalik,as a result,connector
+519,مجتمع,mujtama,society,noun
+520,ينتج,yuntij,result in;produce,verb
+521,بيت,bayt,house;home,noun
+522,منزل,manzil,house;home,noun
+523,شقة,shaqqa,apartment,noun
+524,غرفة,ghurfa,room,noun
+525,باب,bab,door,noun
+526,نافذة,nafidha,window,noun
+527,جدار,jidar,wall,noun
+528,أرض,ard,ground;land,noun
+529,أرضية,ardiyya,floor,noun
+530,مفتاح,miftah,key,noun
+531,طاولة,tawila,table,noun
+532,كرسي,kursi,chair,noun
+533,سرير,sarir,bed,noun
+534,مطبخ,matbakh,kitchen,noun
+535,حمام,hammam,bathroom;bath,noun
+536,حديقة,hadiqa,garden,noun
+537,شارع,shari,street,noun
+538,طريق,tariq,road;way,noun
+539,مبنى,mabna,building,noun
+540,سفر,safar,travel,noun
+541,مكتب,maktab,office;desk,noun
+542,مدرسة,madrasa,school,noun
+543,جامعة,jami-a,university,noun
+544,مستشفى,mustashfa,hospital,noun
+545,محطة,mahatta,station,noun
+546,مطار,matar,airport,noun
+547,فندق,funduq,hotel,noun
+548,مطعم,mat-am,restaurant,noun
+549,متجر,matjar,shop;store,noun
+550,مكتبة,maktaba,library;bookstore,noun
+551,مصنع,masna,factory,noun
+552,مزرعة,mazraa,farm,noun
+553,شركة,sharika,company,noun
+554,مؤسسة,mu-assasa,institution,noun
+555,منظمة,munazzama,organization,noun
+556,وزارة,wizarah,ministry,noun
+557,سفارة,sifara,embassy,noun
+558,محكمة,mahkama,court,noun
+559,سجن,sijn,prison,noun
+560,مدينة,madina,city,noun
+561,قرية,qarya,village,noun
+562,تاريخ,tarikh,date;history,noun
+563,دولة,dawla,state;country,noun
+564,بلد,balad,country;town,noun
+565,منطقة,mantiqa,region;area,noun
+566,مكان,makan,place,noun
+567,موقع,mawqi,location;site,noun
+568,جانب,janib,side,noun
+569,وسط,wasat,center,noun
+570,طرف,taraf,side;end,noun
+571,زاوية,zawiya,corner;angle,noun
+572,اتجاه,ittijah,direction,noun
+573,شمال,shimal,north,noun
+574,جنوب,janub,south,noun
+575,تعليم,talim,education,noun
+576,شرق,sharq,east,noun
+577,غرب,gharb,west,noun
+578,سماء,sama,sky,noun
+579,شمس,shams,sun,noun
+580,قمر,qamar,moon,noun
+581,نجم,najm,star,noun
+582,سحاب,sahab,cloud,noun
+583,مطر,matar,rain,noun
+584,ثلج,thalj,snow,noun
+585,ريح,rih,wind,noun
+586,هواء,hawa,air,noun
+587,نتيجة,natija,result,noun
+588,حرارة,harara,heat;temperature,noun
+589,برد,bard,cold,noun
+590,صوت,sawt,sound;voice,noun
+591,ضوء,daw,light,noun
+592,نار,nar,fire,noun
+593,ماء,ma,water,noun
+594,بحر,bahr,sea,noun
+595,نهر,nahr,river,noun
+596,بحيرة,buhayra,lake,noun
+597,جبل,jabal,mountain,noun
+598,غابة,ghaba,forest,noun
+599,شجرة,shajara,tree,noun
+600,زهرة,zahra,flower,noun
+601,نبات,nabat,plant,noun
+602,حجر,hajar,stone,noun
+603,رمل,raml,sand,noun
+604,فكرة,fikra,idea,noun
+605,تراب,turab,soil;dust,noun
+606,حيوان,hayawan,animal,noun
+607,صفة,sifa,adjective;quality,noun
+608,طائر,ta-ir,bird,noun
+609,سمكة,samaka,fish,noun
+610,حصان,hisan,horse,noun
+611,كلب,kalb,dog,noun
+612,نحلة,nahla,bee,noun
+613,فراشة,farasha,butterfly,noun
+614,ثقافة,thaqafa,culture,noun
+615,إنسان,insan,human being,noun
+616,شخص,shakhs,person,noun
+617,رجل,rajul,man,noun
+618,امرأة,imra-a,woman,noun
+619,طفل,tifl,child,noun
+620,بنت,bint,girl;daughter,noun
+621,شاب,shabb,young man,noun
+622,شابة,shabba,young woman,noun
+623,أب,ab,father,noun
+624,والد,walid,father;parent,noun
+625,والدة,walida,mother,noun
+626,ابن,ibn,son,noun
+627,ابنة,ibna,daughter,noun
+628,أخ,akh,brother,noun
+629,أخت,ukht,sister,noun
+630,زوج,zawj,husband,noun
+631,زوجة,zawja,wife,noun
+632,أسرة,usra,family,noun
+633,عائلة,aila,family,noun
+634,صديق,sadiq,friend,noun
+635,صديقة,sadiqa,female friend,noun
+636,جار,jar,neighbor,noun
+637,بيانات,bayanat,data,noun
+638,زميل,zamil,colleague,noun
+639,شخصية,shakhsiyya,personality;character,noun
+640,معرفة,marifa,knowledge,noun
+641,ضيف,dayf,guest,noun
+642,رجل أعمال,rajul a-mal,businessman,noun
+643,مواطن,muwatin,citizen,noun
+644,شعب,shab,people;population,noun
+645,قدرة,qudra,ability,noun
+646,جمهور,jumhur,audience;public,noun
+647,جماعة,jama-a,group,noun
+648,فريق,fariq,team,noun
+649,هدف,hadaf,goal,noun
+650,مجموعة,majmua,group,noun
+651,عضو,udw,member,noun
+652,قرار,qarar,decision,noun
+653,قائد,qa-id,leader,noun
+654,اختيار,ikhtiyar,choice,noun
+655,مدير,mudir,manager,noun
+656,رأي,ra-y,opinion,noun
+657,موظف,muwazzaf,employee,noun
+658,عامل,amil,worker,noun
+659,مشكلة,mushkila,problem,noun
+660,طبيب,tabib,doctor,noun
+661,ممرض,mumarriḍ,nurse,noun
+662,مهندس,muhandis,engineer,noun
+663,خدمة,khidma,service,noun
+664,محام,muhami,lawyer,noun
+665,أستاذ,ustadh,professor;teacher,noun
+666,طالب,talib,student,noun
+667,باحث,bahith,researcher,noun
+668,كاتب,katib,writer,noun
+669,صحفي,sahafi,journalist,noun
+670,علاقة,alaqa,relationship,noun
+671,فنان,fannan,artist,noun
+672,لاعب,laib,player,noun
+673,سائق,sa-iq,driver,noun
+674,شرطي,shurti,police officer,noun
+675,جندي,jundi,soldier,noun
+676,وزير,wazir,minister,noun
+677,رئيس,ra-is,president;head,noun
+678,حاكم,hakim,ruler;governor,noun
+679,طعام,ta-am,food,noun
+680,خبز,khubz,bread,noun
+681,حقيقة,haqiqa,truth;reality,noun
+682,أرز,ruzz,rice,noun
+683,واقع,waqi,reality,noun
+684,لحم,lahm,meat,noun
+685,دجاج,dajaj,chicken,noun
+686,سمك,samak,fish,noun
+687,بيض,bayd,eggs,noun
+688,حليب,halib,milk,noun
+689,جبن,jubn,cheese,noun
+690,عقل,aql,mind;reason,noun
+691,زبدة,zubda,butter,noun
+692,سكر,sukkar,sugar,noun
+693,ملح,milh,salt,noun
+694,فاكهة,fakiha,fruit,noun
+695,خضار,khudar,vegetables,noun
+696,تفاح,tuffah,apples,noun
+697,برتقال,burtuqal,orange,noun
+698,موز,mawz,banana,noun
+699,عنب,inab,grapes,noun
+700,أمن,amn,security,noun
+701,إذا كان,idha kana,if,construction
+702,إلا أن,illa anna,however;except that,conjunction
+703,إلى حد,ila hadd,to the extent,phrase
+704,بدل أن,badal an,instead of,conjunction
+705,بدلًا من,badalan min,instead of,phrase
+706,بصفة عامة,bisifa amma,generally,phrase
+707,بغض النظر,bighadd an-nazar,regardless,phrase
+708,بناءً على ذلك,binaan ala dhalik,accordingly,phrase
+709,حتى الآن,hatta al-an,until now,phrase
+710,حتى لا,hatta la,so that ... not,conjunction
+711,دون أن,dun an,without,conjunction
+712,رغم أن,raghm anna,although;despite the fact that,conjunction
+713,سواء...أم,sawa...am,whether...or,construction
+714,على الرغم من ذلك,ala ar-raghm min dhalik,despite that,phrase
+715,في الوقت الحالي,fi al-waqt al-hali,at present,phrase
+716,في كثير من الأحيان,fi kathir min al-ahyan,often,phrase
+717,في معظم الأحيان,fi mu-azam al-ahyan,most of the time,phrase
+718,كأن,ka-anna,as if,particle
+719,كأنما,ka-annama,as though,particle
+720,كلما...كلما,kullama...kullama,the more...the more,construction
+721,كي لا,kay la,so as not to,conjunction
+722,لا بد من,la budda min,it is necessary,construction
+723,مرة أخرى,marra ukhra,again,phrase
+724,مع أن,ma-a anna,although,conjunction
+725,معدل النمو,muaddal an-numuw,growth rate,phrase
+726,من الضروري أن,min ad-daruri an,it is necessary that,construction
+727,من المؤكد أن,min al-mu-akkad an,it is certain that,construction
+728,من المحتمل أن,min al-muhtamal an,it is likely that,construction
+729,من الممكن أن,min al-mumkin an,it is possible that,construction
+730,من الواضح أن,min al-wadih an,it is clear that,construction
+731,من وقت لآخر,min waqt li-akhar,from time to time,phrase
+732,منذ البداية,mundhu al-bidaya,from the beginning,phrase
+733,منذ ذلك الحين,mundhu dhalik al-hin,since then,phrase
+734,وبالتالي,wa-bi-t-tali,consequently,connector
+735,تمر,tamr,dates,noun
+736,بطاطا,batata,potato,noun
+737,طماطم,tamatim,tomatoes,noun
+738,حرية,hurriyya,freedom,noun
+739,بصل,basal,onion,noun
+740,عدالة,adala,justice,noun
+741,ثوم,thum,garlic,noun
+742,شاي,shay,tea,noun
+743,قهوة,qahwa,coffee,noun
+744,عصير,asir,juice,noun
+745,مسؤولية,mas-uliyya,responsibility,noun
+746,خطة,khutta,plan,noun
+747,وجبة,wajba,meal,noun
+748,قانون,qanun,law,noun
+749,فطور,futur,breakfast,noun
+750,نظام,nizam,system;order,noun
+751,غداء,ghada,lunch,noun
+752,سياسة,siyasa,politics;policy,noun
+753,عشاء,asha,dinner,noun
+754,حكومة,hukuma,government,noun
+755,كوب,kub,cup,noun
+756,زجاجة,zujaja,bottle,noun
+757,ملعقة,mil-aqa,spoon,noun
+758,سكين,sikkin,knife,noun
+759,شوكة,shawkah,fork,noun
+760,ثلاجة,thallaja,refrigerator,noun
+761,رأي عام,ra-y amm,public opinion,noun
+762,فرن,furn,oven,noun
+763,انتخاب,intikhab,election;choice,noun
+764,ملابس,malabis,clothes,noun
+765,قميص,qamis,shirt,noun
+766,بنطال,bantal,trousers,noun
+767,فستان,fustan,dress,noun
+768,حذاء,hidha,shoe,noun
+769,جوارب,jawarib,socks,noun
+770,قبعة,qubba-a,hat,noun
+771,معطف,mi-taf,coat,noun
+772,حقيبة,haqiba,bag,noun
+773,ساعة,sa-a,watch;clock,noun
+774,نظارة,nazzara,glasses,noun
+775,راتب,ratib,salary,noun
+776,هاتف,hatif,phone,noun
+777,سقف,saqf,ceiling;roof,noun
+778,حاسوب,hasub,computer,noun
+779,كمبيوتر,kumbiyutar,computer,noun
+780,شاشة,shasha,screen,noun
+781,سلم,sullam,stairs,noun
+782,لوحة,lawha,board;panel,noun
+783,آلة,ala,machine;tool,noun
+784,قفل,qufl,lock,noun
+785,جهاز,jihaz,device,noun
+786,سيارة,sayyara,car,noun
+787,حافلة,hafila,bus,noun
+788,قطار,qitar,train,noun
+789,وسادة,wisada,pillow,noun
+790,طائرة,ta-ira,airplane,noun
+791,بطانية,bataniyya,blanket,noun
+792,دراجة,darraja,bicycle,noun
+793,خزانة,khizana,cabinet;wardrobe,noun
+794,سفينة,safina,ship,noun
+795,مرآة,mir-a,mirror,noun
+796,تذكرة,tadhkira,ticket,noun
+797,جواز,jawaz,passport,noun
+798,مهنة,mihna,profession,noun
+799,حقائب,haqa-ib,bags;luggage,noun
+800,مشروع,mashru,project,noun
+801,وقود,wuqud,fuel,noun
+802,بنزين,binzin,gasoline,noun
+803,حركة,haraka,movement;traffic,noun
+804,جسر,jisr,bridge,noun
+805,رحلة,rihla,trip;journey,noun
+806,إقامة,iqama,residence;stay,noun
+807,وقت,waqt,time,noun
+808,يوم,yawm,day,noun
+809,أسبوع,usbu,week,noun
+810,شهر,shahr,month,noun
+811,سنة,sana,year,noun
+812,ميناء,min-a,port,noun
+813,عام,aam,year;general,noun
+814,قرن,qarn,century,noun
+815,دقيقة,daqiqa,minute,noun
+816,ثانية,thaniya,second,noun
+817,لحظة,lahza,moment,noun
+818,صباح,sabah,morning,noun
+819,فردي,fardi,individual,adjective
+820,مساء,masa,evening,noun
+821,أثبت,athbata,prove,verb
+822,أدرك,adraka,realize;perceive,verb
+823,أسس,assasa,establish,verb
+824,أقنع,aqnaa,convince,verb
+825,أنشأ,ansha-a,establish;create,verb
+826,ابتكر,ibtakara,innovate,verb
+827,استعد,ista-adda,prepare,verb
+828,استمتع,istamtaa,enjoy,verb
+829,اعترف,itarafa,admit;confess,verb
+830,تفاوض,tafawada,negotiate,verb
+831,جادل,jadala,argue,verb
+832,شجع,shajja-a,encourage,verb
+833,فسر,fassara,explain;interpret,verb
+834,فضل,fadhdhala,prefer,verb
+835,لخص,lakhkhassa,summarize,verb
+836,ليل,layl,night,noun
+837,نفى,nafa,deny,verb
+838,يدرك,yudrik,realize,verb
+839,يهدد,yuhaddid,threaten,verb
+840,نهار,nahar,daytime,noun
+841,فجر,fajr,dawn,noun
+842,ظهر,zuhr,noon,noun
+843,عصر,asr,afternoon;era,noun
+844,بداية,bidaya,beginning,noun
+845,نهاية,nihaya,end,noun
+846,غد,ghad,tomorrow,noun
+847,موعد,mawid,appointment;date,noun
+848,عمر,umr,age;lifespan,noun
+849,حياة,hayat,life,noun
+850,موت,mawt,death,noun
+851,ولادة,wilada,birth,noun
+852,زواج,zawaj,marriage,noun
+853,طلاق,talaq,divorce,noun
+854,عيد,id,festival;holiday,noun
+855,عطلة,utla,holiday,noun
+856,مناسبة,munasaba,occasion,noun
+857,عيد ميلاد,id milad,birthday,noun
+858,دراسة,dirasa,study,noun
+859,مدرس,mudarris,teacher,noun
+860,صف,saff,class;row,noun
+861,فصل,fasl,classroom;chapter,noun
+862,كلية,kulliyya,college;faculty,noun
+863,تخصص,takhas-sus,specialization,noun
+864,مادة,madda,subject;material,noun
+865,امتحان,imtihan,exam,noun
+866,اختبار,ikhtibar,test,noun
+867,سؤال,sual,question,noun
+868,جواب,jawab,answer,noun
+869,درجة,daraja,grade;degree,noun
+870,شهادة,shahada,certificate,noun
+871,كتاب,kitab,book,noun
+872,مجلة,majalla,magazine,noun
+873,جريدة,jarida,newspaper,noun
+874,خبر,khabar,news,noun
+875,مقال,maqal,article,noun
+876,صفحة,safha,page,noun
+877,كلمة,kalima,word,noun
+878,جملة,jumla,sentence,noun
+879,لغة,lugha,language,noun
+880,حرف,harf,letter,noun
+881,معنى,mana,meaning,noun
+882,ترجمة,tarjama,translation,noun
+883,مثال,mithal,example,noun
+884,اسم,ism,name;noun,noun
+885,جذر,jithr,root,noun
+886,قاعدة,qa-ida,rule,noun
+887,صرف,sarf,morphology,noun
+888,نطق,nutq,pronunciation,noun
+889,لهجة,lahja,dialect,noun
+890,صحي,sihhi,health-related,adjective
+891,فن,fann,art,noun
+892,أدب,adab,literature,noun
+893,شعر,shi-r,poetry,noun
+894,رواية,riwaya,novel;narrative,noun
+895,قصة,qissa,story,noun
+896,فيلم,film,film,noun
+897,صورة,sura,picture;image,noun
+898,فيديو,fidyū,video,noun
+899,تحدي,tahaddi,challenge,noun
+900,موسيقى,musiqa,music,noun
+901,أغنية,ughniya,song,noun
+902,برنامج,barnamaj,program;show,noun
+903,إذاعة,idhaa,radio broadcast,noun
+904,تلفاز,tilfaz,television,noun
+905,صحيفة,sahifa,newspaper,noun
+906,إنترنت,internet,internet,noun
+907,شبكة,shabaka,network,noun
+908,رسالة,risala,message;letter,noun
+909,بريد,barid,mail;post,noun
+910,عنوان,unwan,title;address,noun
+911,رقم,raqm,number,noun
+912,قائمة,qa-ima,list,noun
+913,معلومات,malumat,information,noun
+914,خبرة,khibra,experience,noun
+915,تجربة,tajriba,experience;experiment,noun
+916,مهارة,ma-hara,skill,noun
+917,فرصة,fursa,opportunity,noun
+918,حاجة,haja,need,noun
+919,ضرورة,darura,necessity,noun
+920,موقف,mawqif,position;attitude,noun
+921,إجابة,ijaba,answer,noun
+922,مساعدة,musa-ada,help,noun
+923,اجتماع,ijtima,meeting,noun
+924,محادثة,muhadatha,conversation,noun
+925,حوار,hiwar,dialogue,noun
+926,نقاش,niqash,discussion,noun
+927,اتصال,ittisal,contact;connection,noun
+928,صداقة,sadaqa,friendship,noun
+929,حب,hubb,love,noun
+930,خوف,khawf,fear,noun
+931,حلم,hulm,dream,noun
+932,رغبة,raghba,desire,noun
+933,شوق,shawq,longing,noun
+934,ثقة,thiqa,trust,noun
+935,إيمان,iman,faith;belief,noun
+936,سر,sir,secret,noun
+937,خيال,khayal,imagination,noun
+938,تفكير,tafkir,thinking,noun
+939,ذاكرة,dhakira,memory,noun
+940,انتباه,intibah,attention,noun
+941,تغيير,taghyir,change,noun
+942,تركيز,tarkiz,focus,noun
+943,تقدم,taqaddum,progress,noun
+944,قلب,qalb,heart,noun
+945,روح,ruh,spirit,noun
+946,شعور,shuur,feeling,noun
+947,إحساس,ihsas,sensation;feeling,noun
+948,سعادة,sa-ada,happiness,noun
+949,كآبة,ka-aba,depression;gloom,noun
+950,سلام,salam,peace,noun
+951,حرب,harb,war,noun
+952,خطر,khatar,danger,noun
+953,حماية,himaya,protection,noun
+954,مساواة,musawa,equality,noun
+955,حق,haqq,right;truth,noun
+956,واجب,wajib,duty,noun
+957,مستقبل,mustaqbal,future,adjective
+958,دستور,dustur,constitution,noun
+959,انتخابات,intikhabat,elections,noun
+960,حزب,hizb,party,noun
+961,برلمان,barlaman,parliament,noun
+962,مجلس,majlis,council,noun
+963,مرشح,murashshah,candidate,noun
+964,تصويت,taswit,voting,noun
+965,مجلس الوزراء,majlis al-wuzara,cabinet,noun
+966,اقتصاد,iqtisad,economy,noun
+967,مال,mal,money,noun
+968,نقود,nuqud,cash;money,noun
+969,عملة,umla,currency,noun
+970,سعر,si-r,price,noun
+971,مفرد,mufrad,singular;individual,adjective
+972,قيمة,qima,value,noun
+973,كبير,kabir,big;large,adjective
+974,تكلفة,taklifa,cost,noun
+975,صغير,saghir,small,adjective
+976,طويل,tawil,long;tall,adjective
+977,مصروف,masruf,expense,noun
+978,قصير,qasir,short,adjective
+979,خسارة,khasara,loss,noun
+980,واسع,wasi,wide;spacious,adjective
+981,دين,dayn,debt,noun
+982,ضيق,dayyiq,narrow,adjective
+983,قرض,qard,loan,noun
+984,قريب,qarib,near,adjective
+985,بنك,bank,bank,noun
+986,بعيد,ba-id,far,adjective
+987,حساب,hisab,account;calculation,noun
+988,جديد,jadid,new,adjective
+989,ميزانية,mizaniyya,budget,noun
+990,قديم,qadim,old;ancient,adjective
+991,تجارة,tijara,trade,noun
+992,حديث,hadith,modern;recent,adjective
+993,صناعة,sinaa,industry,noun
+994,سريع,sari,fast,adjective
+995,إنتاج,intaj,production,noun
+996,كامل,kamil,complete,adjective
+997,بطيء,bati,slow,adjective
+998,استهلاك,istihlak,consumption,noun
+999,ضعيف,da-if,weak,adjective
+1000,استثمار,istithmar,investment,noun
+1001,صعب,sa-b,difficult,adjective
+1002,بطالة,batala,unemployment,noun
+1003,سهل,sahl,easy,adjective
+1004,وظيفة,wazifa,job,noun
+1005,مهم,muhimm,important,adjective
+1006,ضروري,daruri,necessary,adjective
+1007,ممكن,mumkin,possible,adjective
+1008,إدارة,idara,management,noun
+1009,مستحيل,mustahil,impossible,adjective
+1010,قسم,qism,department;section,noun
+1011,مختلف,mukhtalif,different,adjective
+1012,عميل,amil,client,noun
+1013,متشابه,mutashabih,similar,adjective
+1014,زبون,zabun,customer,noun
+1015,متساو,mutasawi,equal,adjective
+1016,مورد,mawrid,supplier;resource,noun
+1017,أفضل,afdal,better;best,adjective
+1018,منتج,muntaj,product,noun
+1019,أسوأ,aswa,worse;worst,adjective
+1020,سلعة,sil-a,commodity;goods,noun
+1021,أعلى,ala,higher,adjective
+1022,بضاعة,bida-a,merchandise,noun
+1023,أدنى,adna,lower,adjective
+1024,فاتورة,fatura,bill;invoice,noun
+1025,أول,awwal,first,adjective
+1026,عقد,aqd,contract,noun
+1027,رئيسي,ra-isi,main;principal,adjective
+1028,صفقة,safqa,deal,noun
+1029,ثانوي,thanawi,secondary,adjective
+1030,اتفاق,ittifaq,agreement,noun
+1031,خاص,khass,special;private,adjective
+1032,توقيع,tawqi,signature,noun
+1033,عامي,ammi,colloquial,adjective
+1034,تأمين,ta-min,insurance,noun
+1035,رسمي,rasmi,official;formal,adjective
+1036,شخصي,shakhsi,personal,adjective
+1037,جماعي,jama-i,collective,adjective
+1038,دولي,duwali,international,adjective
+1039,محلي,mahalli,local,adjective
+1040,وطني,watani,national,adjective
+1041,أجنبي,ajnabi,foreign,adjective
+1042,عربي,arabi,Arabic,adjective
+1043,إنجليزي,injilizi,English,adjective
+1044,فرنسي,faransi,French,adjective
+1045,ألماني,almani,German,adjective
+1046,آسيوي,asiyawi,Asian,adjective
+1047,أوروبي,urubi,European,adjective
+1048,أمريكي,amriki,American,adjective
+1049,إفريقي,ifriqi,African,adjective
+1050,شرقي,sharqi,eastern,adjective
+1051,غربي,gharbi,western,adjective
+1052,شمالي,shimali,northern,adjective
+1053,جنوبي,janubi,southern,adjective
+1054,مادي,maddi,material,adjective
+1055,معنوي,manawi,moral;intangible,adjective
+1056,حقيقي,haqiqi,real;true,adjective
+1057,خيالي,khayali,imaginary,adjective
+1058,واقعي,waqi,realistic,adjective
+1059,منطقي,mantiqi,logical,adjective
+1060,عقلي,aqli,mental;intellectual,adjective
+1061,علمي,ilmi,scientific,adjective
+1062,عملي,amali,practical,adjective
+1063,نظري,nazari,theoretical,adjective
+1064,تقني,tiqni,technical,adjective
+1065,تكنولوجي,tiknulujiy,technological,adjective
+1066,رقمي,raqami,digital,adjective
+1067,إلكتروني,iliktiruni,electronic,adjective
+1068,بيئي,bi-i,environmental,adjective
+1069,اقتصادي,iqtisadi,economic,adjective
+1070,مالي,mali,financial,adjective
+1071,أقرض,aqrada,lend,verb
+1072,ادخر,iddakhara,save,verb
+1073,اقترض,iqtarada,borrow,verb
+1074,انتظر,intazara,wait,verb
+1075,اهتم,ihtamma,care about,verb
+1076,تجاوز,tajawaza,overcome;exceed,verb
+1077,رافق,rafaqa,accompany,verb
+1078,زامل,zaamala,work alongside,verb
+1079,ساهم,sahama,contribute,verb
+1080,سكن,sakana,live;reside,verb
+1081,صدر,saddara,export,verb
+1082,وزع,wazza-a,distribute,verb
+1083,يتكون,yatakawwan,consist of,verb
+1084,يعالج,yualij,treat;address,verb
+1085,يعتمد,yatamid,depend on,verb
+1086,تجاري,tijari,commercial,adjective
+1087,صناعي,sina-i,industrial,adjective
+1088,زراعي,zira-i,agricultural,adjective
+1089,سياسي,siyasi,political,adjective
+1090,قانوني,qanuni,legal,adjective
+1091,مسألة,mas-ala,issue;question,noun
+1092,دستوري,dusturi,constitutional,adjective
+1093,قضية,qadiyya,issue;case,noun
+1094,حكومي,hukumi,governmental,adjective
+1095,تأثير,ta-thir,effect,noun
+1096,عسكري,askari,military,adjective
+1097,مدني,madani,civil,adjective
+1098,اجتماعي,ijtima-i,social,adjective
+1099,فرق,farq,difference,noun
+1100,ثقافي,thaqafi,cultural,adjective
+1101,تشابه,tashabuh,similarity,noun
+1102,فني,finni,artistic;technical,adjective
+1103,اختلاف,ikhtilaf,difference,noun
+1104,أدبي,adabi,literary,adjective
+1105,تعليمي,talimi,educational,adjective
+1106,أكاديمي,akademi,academic,adjective
+1107,مهني,mihani,professional,adjective
+1108,عائلي,a-ili,family,adjective
+1109,ديني,dini,religious,adjective
+1110,طريقة,tariqa,method;way,noun
+1111,إسلامي,islami,Islamic,adjective
+1112,أسلوب,uslub,style;method,noun
+1113,روحي,ruhi,spiritual,adjective
+1114,أخلاقي,akhlaqi,ethical,adjective
+1115,نفسي,nafsi,psychological,adjective
+1116,غاية,ghaya,aim;ultimate goal,noun
+1117,طبي,tibbi,medical,adjective
+1118,غرض,gharad,purpose,noun
+1119,جسدي,jasadi,bodily,adjective
+1120,عملية,amaliyya,process;operation,noun
+1121,لغوي,lugha wi,linguistic,adjective
+1122,نحوي,nahwi,grammatical;syntactic,adjective
+1123,لفظي,lafzi,verbal,adjective
+1124,معجمي,mu-jami,lexical,adjective
+1125,إيجابي,ijabi,positive,adjective
+1126,سلبي,salbi,negative,adjective
+1127,مفيد,mufid,useful,adjective
+1128,أساسًا,asasan,basically,adverb
+1129,أصلًا,aslan,originally;in the first place,adverb
+1130,إجمالًا,ijmalan,overall,adverb
+1131,بالضرورة,bid-darura,necessarily,adverb
+1132,خاصة,khassa,especially,adverb
+1133,عمومًا,umuman,generally,adverb
+1134,فعليًا,fi-liyyan,actually,adverb
+1135,ضار,darr,harmful,adjective
+1136,نافع,nafi,beneficial,adjective
+1137,مناسب,munasib,suitable,adjective
+1138,غير مناسب,ghayr munasib,unsuitable,adjective
+1139,مقبول,maqbul,acceptable,adjective
+1140,مرفوض,marfud,rejected;unacceptable,adjective
+1141,متاح,mutah,available,adjective
+1142,مغلق,mughlaq,closed,adjective
+1143,مفتوح,maftuh,open,adjective
+1144,جاهز,jahiz,ready,adjective
+1145,مستعد,mustaid,prepared,adjective
+1146,مشغول,mashghul,busy,adjective
+1147,فارغ,farigh,empty;free,adjective
+1148,ممتلئ,mumtali,full,adjective
+1149,سعيد,sa-id,happy,adjective
+1150,حزين,hazin,sad,adjective
+1151,غاضب,ghadib,angry,adjective
+1152,خائف,kha-if,afraid,adjective
+1153,مسرور,masrur,pleased,adjective
+1154,فرحان,farhan,happy,adjective
+1155,متعب,mutab,tired,adjective
+1156,مريض,marid,ill,adjective
+1157,جدال,jidal,argument;debate,noun
+1158,سليم,salim,healthy;intact,adjective
+1159,جائع,ja-i,hungry,adjective
+1160,عطشان,atshan,thirsty,adjective
+1161,نظيف,nazif,clean,adjective
+1162,تحليل,tahlil,analysis,noun
+1163,وسخ,wasikh,dirty,adjective
+1164,استنتاج,istintaj,conclusion,noun
+1165,جميل,jamil,beautiful,adjective
+1166,قبيح,qabih,ugly,adjective
+1167,لطيف,latif,kind;pleasant,adjective
+1168,مبدأ,mabda,principle,noun
+1169,طيب,tayyib,good;kind,adjective
+1170,مفهوم,mafhum,concept,noun
+1171,سيئ,sayyi,bad,adjective
+1172,حجة,hujja,argument;proof,noun
+1173,ذكي,dhaki,intelligent,adjective
+1174,دليل,dalil,evidence;guide,noun
+1175,غبي,ghabi,stupid,adjective
+1176,حكيم,hakim,wise,adjective
+1177,شجاع,shuja,brave,adjective
+1178,جبان,jaban,cowardly,adjective
+1179,صادق,sadiq,honest,adjective
+1180,كاذب,kadhib,lying,adjective
+1181,أمين,amin,trustworthy,adjective
+1182,مخلص,mukhlis,sincere;loyal,adjective
+1183,كريم,karim,generous,adjective
+1184,بخيل,bakhil,stingy,adjective
+1185,صبور,sabur,patient,adjective
+1186,عصبي,asabi,nervous,adjective
+1187,هادئ,hadi,calm,adjective
+1188,نشط,nashit,active,adjective
+1189,كسول,kasul,lazy,adjective
+1190,متحمس,mutahammis,enthusiastic,adjective
+1191,متأكد,muta-akkid,certain,adjective
+1192,محتمل,muhtamal,likely;possible,adjective
+1193,واضح,wadih,clear,adjective
+1194,غامض,ghamid,ambiguous,adjective
+1195,صريح,sarih,direct;frank,adjective
+1196,دقيق,daqiq,accurate;precise,adjective
+1197,محدد,muhaddad,specific;defined,adjective
+1198,تراجع,taraju,decline,noun
+1199,ناقص,naqis,incomplete,adjective
+1200,انخفاض,inkhifad,decrease,noun
+1201,متكامل,mutakamil,integrated,adjective
+1202,ارتفاع,irtifa,increase;rise,noun
+1203,أساسي,asasi,basic;fundamental,adjective
+1204,إضافي,idafi,additional,adjective
+1205,اختياري,ikhtiyari,optional,adjective
+1206,إلزامي,ilzami,mandatory,adjective
+1207,مؤقت,mu-aqqat,temporary,adjective
+1208,دائم,da-im,permanent,adjective
+1209,مستمر,mustamir,continuous,adjective
+1210,متوقف,mutawaqqif,stopped,adjective
+1211,سابق,sabiq,previous,adjective
+1212,لاحق,lahiq,subsequent,adjective
+1213,تطوير,tatwir,development,noun
+1214,حالي,hali,current,adjective
+1215,قادم,qadim,coming;next,adjective
+1216,ماضي,madi,past,adjective
+1217,مؤخر,mu-akhkhar,delayed,adjective
+1218,مبكر,mubakkir,early,adjective
+1219,متأخر,muta-akhkhir,late,adjective
+1220,يومي,yawmi,daily,adjective
+1221,أسبوعي,usbui,weekly,adjective
+1222,شهري,shahri,monthly,adjective
+1223,سنوي,sanawi,annual,adjective
+1224,نادر,nadir,rare,adjective
+1225,شائع,sha-i,common,adjective
+1226,منتشر,muntashir,widespread,adjective
+1227,مركزي,markazi,central,adjective
+1228,هامشي,hamishi,marginal,adjective
+1229,مستقل,mustaqill,independent,adjective
+1230,تابع,tabe,dependent,adjective
+1231,مرتبط,murtabit,connected,adjective
+1232,منفصل,munfasil,separate,adjective
+1233,مشترك,mushtarak,shared;common,adjective
+1234,متعدد,mutadadd,multiple,adjective
+1235,مزدوج,muzdawij,double,adjective
+1236,فرد,fard,individual,noun
+1237,ثنائي,thuna-i,dual;binary,adjective
+1238,مركب,murakkab,compound,adjective
+1239,بسيط,basit,simple,adjective
+1240,معقد,mu-aqqad,complex,adjective
+1241,ظاهرة,zاهرة,phenomenon,noun
+1242,فساد,fasad,corruption,noun
+1243,مباشر,mubashir,direct,adjective
+1244,غير مباشر,ghayr mubashir,indirect,adjective
+1245,فعلي,fili,actual;verbal,adjective
+1246,اسمي,ismi,nominal,adjective
+1247,عشوائي,ashwa-i,random,adjective
+1248,منتظم,muntazam,regular,adjective
+1249,غير منتظم,ghayr muntazam,irregular,adjective
+1250,متوقع,mutawaqqa,expected,adjective
+1251,مفاجئ,mufaji,sudden;surprising,adjective
+1252,ممل,mumill,boring,adjective
+1253,ممتع,mumti,enjoyable,adjective
+1254,خطير,khatir,dangerous,adjective
+1255,خاطئ,khati,wrong,adjective
+1256,صحيح,sahih,correct;healthy,adjective
+1257,تقريبي,taqribi,approximate,adjective
+1258,غير رسمي,ghayr rasmi,informal,adjective
+1259,شفهي,shafahi,oral,adjective
+1260,انتهج,intahaja,adopt a method,verb
+1261,مكتوب,maktub,written,adjective
+1262,مرئي,mar-i,visible,adjective
+1263,مسموع,masmu,audible,adjective
+1264,ملحوظ,malhuz,noticeable,adjective
+1265,عاجز,ajiz,unable,adjective
+1266,هوية,hawiyya,identity,noun
+1267,قادر,qadir,able,adjective
+1268,فعال,fa-al,effective,adjective
+1269,غير فعال,ghayr fa-al,ineffective,adjective
+1270,واسع الانتشار,wasi al-intishar,widespread,adjective
+1271,انتقال,intiqal,transition;move,noun
+1272,مرتفع,murtafi,high,adjective
+1273,منخفض,munkhafid,low,adjective
+1274,متوسط,mutawassit,average;medium,adjective
+1275,كبير السن,kabir as-sinn,elderly,adjective
+1276,صغير السن,saghir as-sinn,young,adjective
+1277,بالغ,baligh,adult,adjective
+1278,قاصر,qasir,minor,adjective
+1279,إنساني,insani,humanitarian;human,adjective
+1280,عالمي,alami,global,adjective
+1281,ازداد,izdada,increase,verb
+1282,ارتفع,irtafa,rise,verb
+1283,انخفض,inkhafada,decrease,verb
+1284,نوعية,nawiyya,quality;qualitative nature,noun
+1285,جودة,jawda,quality,noun
+1286,انتقل,intaqala,move;transfer,verb
+1287,ثبت,thabata,prove;remain firm,verb
+1288,صحة,sihha,health,noun
+1289,علاج,ilaj,treatment,noun
+1290,أمر,amr,matter;command,noun
+1291,موضوع,mawdu,topic;subject,noun
+1292,رابط,rabit,link,noun
+1293,صلة,sila,connection,noun
+1294,مقارنة,muqarana,comparison,noun
+1295,مستوى,mustawa,level,noun
+1296,نوع,naw,type,noun
+1297,شكل,shakl,form;shape,noun
+1298,نموذج,namudhaj,model;example,noun
+1299,يراقب,yuraqib,monitor,verb
+1300,وسيلة,wasila,means,noun
+1301,أداة,ada,tool,noun
+1302,يقبل,yaqbal,accept,verb
+1303,نية,niyya,intention,noun
+1304,مرحلة,marhala,stage,noun
+1305,مخطط,mukhatat,diagram;plan,noun
+1306,خطوة,khatwa,step,noun
+1307,حالة,hala,state;condition,noun
+1308,ظرف,zarf,circumstance,noun
+1309,إمكانية,imkaniyya,possibility,noun
+1310,يعبر,yuabbir,express,verb
+1311,احتمال,ihtimal,probability;possibility,noun
+1312,يؤكد,yuakkid,confirm,verb
+1313,إرادة,irada,will,noun
+1314,سلطة,sulta,authority;power,noun
+1315,قوة,quwwa,strength;power,noun
+1316,يذكر,yadhkur,mention,verb
+1317,سيطرة,saytara,control,noun
+1318,نفوذ,nufudh,influence,noun
+1319,تحسن,tahassun,improvement,noun
+1320,نمو,numu,growth,noun
+1321,انهيار,inhiyar,collapse,noun
+1322,نجاح,najah,success,noun
+1323,إنجاز,injaz,achievement,noun
+1324,محاولة,muhawala,attempt,noun
+1325,مشاركة,musharaka,participation,noun
+1326,منافسة,munafasa,competition,noun
+1327,صراع,sira,conflict,noun
+1328,نزاع,niza,dispute,noun
+1329,تفاهم,tafahum,understanding;mutual understanding,noun
+1330,مفاوضات,mufawadat,negotiations,noun
+1331,وجهة نظر,wajhat nazar,point of view,noun
+1332,يثبت,yuthbit,prove,verb
+1333,وجه,wajh,face,noun
+1334,معلومة,maluma,piece of information,noun
+1335,بيان,bayan,statement;declaration,noun
+1336,افتراض,iftirad,assumption,noun
+1337,نظرية,nazariyya,theory,noun
+1338,برهان,burhan,proof,noun
+1339,وهم,wahm,illusion,noun
+1340,يقين,yaqin,certainty,noun
+1341,وسائط,wasait,media,noun
+1342,دقة,diqqa,accuracy,noun
+1343,إعلام,ilam,media;information,noun
+1344,وضوح,wuduh,clarity,noun
+1345,غموض,ghumud,ambiguity,noun
+1346,يمنع,yamna,prevent,verb
+1347,تفصيل,tafsil,detail,noun
+1348,ملخص,mulakhkhas,summary,noun
+1349,خلاصة,khulasa,summary;essence,noun
+1350,مقدمة,muqaddima,introduction,noun
+1351,يحمي,yahmi,protect,verb
+1352,محتوى,muhtawa,content,noun
+1353,فهرس,fihris,index;table of contents,noun
+1354,فقرة,fiqra,paragraph,noun
+1355,سطر,satr,line,noun
+1356,نص,nass,text,noun
+1357,عبارة,ibara,phrase;expression,noun
+1358,تعبير,tabir,expression,noun
+1359,مصطلح,mustalah,term,noun
+1360,معجم,mu-jam,dictionary,noun
+1361,قاموس,qamus,dictionary,noun
+1362,مرادف,muradif,synonym,noun
+1363,مقابل,muqabil,equivalent;counterpart,noun
+1364,سياق,siyaq,context,noun
+1365,مضمون,madmun,content;meaning,noun
+1366,استخدام,istikhdam,use;usage,noun
+1367,استعمال,istimal,use,noun
+1368,بناء,bina,building;construction,noun
+1369,تركيب,tarkib,structure;composition,noun
+1370,ترتيب,tartib,arrangement;order,noun
+1371,تنظيم,tanzim,organization,noun
+1372,تقسيم,taqsim,division,noun
+1373,إضافة,idafa,addition,noun
+1374,إزالة,izala,removal,noun
+1375,اختصار,ikhtisar,abbreviation;summary,noun
+1376,توسيع,tawsi,expansion,noun
+1377,تحسين,tahsin,improvement,noun
+1378,تعديل,tadil,modification,noun
+1379,إصلاح,islah,reform;repair,noun
+1380,تحويل,tahwil,conversion,noun
+1381,مسار,masar,path;course,noun
+1382,وصول,wusul,arrival,noun
+1383,مغادرة,mughadara,departure,noun
+1384,عودة,awda,return,noun
+1385,دخول,dukhul,entry,noun
+1386,خروج,khuruj,exit,noun
+1387,لقاء,liqa,meeting,noun
+1388,زيارة,ziyara,visit,noun
+1389,مكالمة,mukalama,phone call,noun
+1390,مقابلة,muqabala,interview;meeting,noun
+1391,مهرجان,mahrajan,festival,noun
+1392,احتفال,ihtifal,celebration,noun
+1393,هدية,hadiyya,gift,noun
+1394,ذكرى,dhikra,memory;anniversary,noun
+1395,حادث,hadith,accident;incident,noun
+1396,بطل,batal,hero,noun
+1397,عدو,adu,enemy,noun
+1398,مضيف,mudif,host,noun
+1399,اكتمل,iktamala,be completed,verb
+1400,قيادة,qiyada,leadership,noun
+1401,رئاسة,ri-asa,presidency;leadership,noun
+1402,مسؤول,mas-ul,official;person responsible,noun
+1403,أزمة,azma,crisis,noun
+1404,اتفاقية,ittifaqiyya,agreement;treaty,noun
+1405,استمارة,istimara,form,noun
+1406,استيراد,istirad,import,noun
+1407,تشاؤم,tasha-um,pessimism,noun
+1408,تصدير,tasdir,export,noun
+1409,تفاؤل,tafa-ul,optimism,noun
+1410,تهديد,tahdid,threat,noun
+1411,حدود,hudud,borders;limits,noun
+1412,حريات,hurriyyat,freedoms,noun
+1413,خلاف,khilaf,disagreement,noun
+1414,سياحة,siyaha,tourism,noun
+1415,شكوك,shukuk,doubts,noun
+1416,غالبية,ghalibiyya,majority,noun
+1417,قاضٍ,qadin,judge,noun
+1418,ماضٍ,madi,past,noun
+1419,مجرم,mujrim,criminal,noun
+1420,محامٍ,muhamin,lawyer,noun
+1421,معارضة,muarada,opposition,noun
+1422,منطق,mantiq,logic,noun
+1423,وطن,watan,homeland,noun
+1424,دور,dawr,role;turn,noun
+1425,توسع,tawassaa,expand,verb
+1426,مهمة,muhimma,task;mission,noun
+1427,انكمش,inkamasha,shrink,verb
+1428,حظر,hazr,ban,noun
+1429,نما,nama,grow,verb
+1430,سماح,samah,permission,noun
+1431,ازدهر,izdahara,prosper,verb
+1432,شرط,shart,condition,noun
+1433,انهار,inhara,collapse,verb
+1434,استثناء,istithna,exception,noun
+1435,تشريع,tashri,legislation,noun
+1436,دعوى,dawa,lawsuit;claim,noun
+1437,اختفى,ikhtafa,disappear,verb
+1438,جريمة,jarima,crime,noun
+1439,بدا,bada,seem,verb
+1440,عقوبة,uquba,punishment,noun
+1441,شرطة,shurta,police,noun
+1442,جيش,jaysh,army,noun
+1443,استقر,istaqarra,settle;stabilize,verb
+1444,دفاع,difa,defense,noun
+1445,اضطرب,idtaraba,be disturbed,verb
+1446,هجوم,hujum,attack,noun
+1447,انتشر,intashara,spread,verb
+1448,معاهدة,muahada,treaty,noun
+1449,انفصل,infasala,separate,verb
+1450,دبلوماسية,diblumasiyya,diplomacy,noun
+1451,ارتبط,irtabata,be connected,verb
+1452,سفير,safir,ambassador,noun
+1453,حملة,hamla,campaign,noun
+1454,ينبغي,yanbaghi,should,verb
+1455,أغلبية,aghlabiyya,majority,noun
+1456,يجب,yajibu,must,verb
+1457,أقلية,aqalliyya,minority,noun
+1458,يستطيع,yastati,can,verb
+1459,أمة,umma,nation;community,noun
+1460,يمكن,yumkin,be possible,verb
+1461,جنسية,jinsiyya,nationality,noun
+1462,يتطلب,yatatallab,require,verb
+1463,تراث,turath,heritage,noun
+1464,حضارة,hadara,civilization,noun
+1465,طبقة,tabaqa,class;layer,noun
+1466,فئة,fi-a,category;group,noun
+1467,جيل,jil,generation,noun
+1468,شباب,shabab,youth,noun
+1469,طفولة,tufula,childhood,noun
+1470,شيخوخة,shaykhukha,old age,noun
+1471,فقر,faqr,poverty,noun
+1472,غنى,ghina,wealth,noun
+1473,ثروة,tharwa,wealth,noun
+1474,هجرة,hijra,migration,noun
+1475,لاجئ,laji,refugee,noun
+1476,سكان,sukkan,population,noun
+1477,عدد,adad,number;quantity,noun
+1478,نسبة,nisba,percentage;ratio,noun
+1479,معدل,muaddal,rate;average,noun
+1480,إحصاء,ihsa,statistics,noun
+1481,إحصائية,ihsa-iyya,statistic,noun
+1482,جدول,jadwal,table;schedule,noun
+1483,خريطة,kharita,map,noun
+1484,تقرير,taqrir,report,noun
+1485,تقييم,taqyim,evaluation,noun
+1486,مقياس,miqyas,measure;scale,noun
+1487,مؤشر,mu-ashshir,indicator,noun
+1488,يشير,yushir,refer;point,verb
+1489,مقدار,miqdar,amount,noun
+1490,كمية,kammiyya,quantity,noun
+1491,ينشر,yanshur,publish,verb
+1492,طاقة,taqa,energy,noun
+1493,سرعة,sur-a,speed,noun
+1494,مسافة,masafa,distance,noun
+1495,طول,tul,length;height,noun
+1496,عرض,ard,width;offer,noun
+1497,عمق,umq,depth,noun
+1498,حجم,hajm,size;volume,noun
+1499,وزن,wazn,weight,noun
+1500,ضغط,daght,pressure,noun
+1501,يجمع,yajma,collect,verb
+1502,ألم,alam,pain,noun
+1503,حمى,humma,fever,noun
+1504,دواء,dawa,medicine,noun
+1505,عيادة,iyada,clinic,noun
+1506,جراحة,jiraha,surgery,noun
+1507,فحص,fahs,examination,noun
+1508,جسم,jism,body,noun
+1509,رأس,ras,head,noun
+1510,أذن,udhn,ear,noun
+1511,أنف,anf,nose,noun
+1512,فم,fam,mouth,noun
+1513,لسان,lisan,tongue;language,noun
+1514,سن,sinn,tooth;age,noun
+1515,يد,yad,hand,noun
+1516,ذراع,dhira,arm,noun
+1517,قدم,qadam,foot,noun
+1518,شعبي,sha-bi,popular,adjective
+1519,ظالم,zalim,unjust,adjective
+1520,عادل,adil,fair,adjective
+1521,فخور,fakhur,proud,adjective
+1522,فعّال,fa-al,effective,adjective
+1523,متساوٍ,mutasawin,equal,adjective
+1524,متشائم,mutasha-im,pessimistic,adjective
+1525,متفائل,mutafa-il,optimistic,adjective
+1526,متكرر,mutakarrir,repeated;recurring,adjective
+1527,متوتر,mutawattir,stressed;tense,adjective
+1528,مجرد,mujarrad,abstract,adjective
+1529,محرج,muhraj,embarrassed,adjective
+1530,مماثل,mumathil,similar,adjective
+1531,واثق,wathiq,confident,adjective
+1532,بطن,batn,belly,noun
+1533,يزرع,yazra,plant;cultivate,verb
+1534,دم,dam,blood,noun
+1535,عظم,azm,bone,noun
+1536,جلد,jild,skin,noun
+1537,مخ,mukhkh,brain,noun
+1538,يصلح,yuslih,repair,verb
+1539,رئة,ri-a,lung,noun
+1540,معدة,mida,stomach,noun
+1541,غذاء,ghidha,nutrition;food,noun
+1542,فيتامين,fitamin,vitamin,noun
+1543,رياضة,riyada,sport;exercise,noun
+1544,يحظر,yahzur,ban,verb
+1545,تمرين,tamrin,exercise;training,noun
+1546,نوم,nawm,sleep,noun
+1547,راحة,raha,rest,noun
+1548,تعب,ta-ab,fatigue,noun
+1549,توتر,tawattur,stress,noun
+1550,ينجو,yanju,survive,verb
+1551,قلق,qalaq,anxiety,noun
+1552,كراهية,karahiya,hatred,noun
+1553,طمأنينة,tama-nina,tranquility,noun
+1554,يأس,ya-s,despair,noun
+1555,ندم,nadam,regret,noun
+1556,خجل,khajal,shame;shyness,noun
+1557,يربي,yurabbi,raise,verb
+1558,فخر,fakhr,pride,noun
+1559,عجب,ajab,wonder,noun
+1560,دهشة,dahsha,astonishment,noun
+1561,مفاجأة,mufaja-a,surprise,noun
+1562,يشفي,yushfi,heal,verb
+1563,شجاعة,shaja-a,courage,noun
+1564,تغير المناخ,taghayyur al-manakh,climate change,noun
+1565,صبر,sabr,patience,noun
+1566,رحمة,rahma,mercy,noun
+1567,لطف,lutf,kindness,noun
+1568,كرامة,karama,dignity,noun
+1569,احترام,ihtiram,respect,noun
+1570,أخلاق,akhlaq,morals;ethics,noun
+1571,ضمير,damir,conscience;pronoun,noun
+1572,سلوك,suluk,behavior,noun
+1573,يركب,yarkab,ride,verb
+1574,طموح,tumuh,ambition,noun
+1575,يقود,yaqud,drive;lead,verb
+1576,موهبة,mawhiba,talent,noun
+1577,تدريب,tadrib,training,noun
+1578,رياضيات,riyadiyyat,mathematics,noun
+1579,فيزياء,fizya,physics,noun
+1580,كيمياء,kimiya,chemistry,noun
+1581,أحياء,ahya,biology,noun
+1582,طب,tibb,medicine,noun
+1583,هندسة,handasa,engineering,noun
+1584,برمجة,barmaja,programming,noun
+1585,تطبيق,tatbiq,application,noun
+1586,ملف,malaf,file,noun
+1587,يعد,yaid,promise;count,verb
+1588,وثيقة,wathiqa,document,noun
+1589,مستند,mustanad,document,noun
+1590,قاعدة بيانات,qa-idat bayanat,database,noun
+1591,كهرباء,kahraba,electricity,noun
+1592,إشارة,ishara,signal;sign,noun
+1593,كاميرا,kamira,camera,noun
+1594,يفرح,yafrah,rejoice,verb
+1595,صحافة,sihafa,journalism,noun
+1596,مقالة,maqala,article,noun
+1597,تلفزيون,tilfizyon,television,noun
+1598,سينما,sinima,cinema,noun
+1599,مسلسل,musalsal,series,noun
+1600,مسرح,masrah,theater,noun
+1601,مسرحية,masrahiyya,play,noun
+1602,مصور,musawwir,photographer,noun
+1603,مخرج,mukhrij,director,noun
+1604,يربح,yarbah,win;profit,verb
+1605,ممثل,mumaththil,actor,noun
+1606,مشهد,mashhad,scene,noun
+1607,يدفع,yadfa,pay,verb
+1608,مؤلف,mu-allif,author,noun
+1609,بحث علمي,bahth ilmi,scientific research,noun
+1610,قارئ,qari,reader,noun
+1611,مشاهد,mushahid,viewer,noun
+1612,متابع,mutabi,follower,noun
+1613,تواصل,tawassul,communication,noun
+1614,تعليق,tal liq,comment,noun
+1615,منشور,manshur,post;publication,noun
+1616,إعلان,ilan,advertisement,noun
+1617,دعاية,diaya,propaganda;advertising,noun
+1618,مصدر,masdar,source,noun
+1619,وكالة,wakala,agency,noun
+1620,تحقيق,tahqiq,investigation;report,noun
+1621,استطلاع,istitala,survey,noun
+1622,يسمى,yusamma,be called,verb
+1623,يعتبر,yutabar,consider,verb
+1624,يتعلق,yataallaq,relate to,verb
+1625,يرتبط,yartabit,be related,verb
+1626,يقدم,yuqaddim,present;offer,verb
+1627,يمثل,yumaththil,represent,verb
+1628,ينتمي,yantami,belong,verb
+1629,يساوي,yusawi,equal,verb
+1630,يختلف,yakhtalif,differ,verb
+1631,أولوية,awlawiyya,priority,noun
+1632,تحد,tahaddi,challenge,noun
+1633,مخاطرة,mukhatara,risk,noun
+1634,حقوق,huquq,rights,noun
+1635,نتيجة لـ,natijatan li,as a result of,preposition
+1636,لهذا السبب,li-hadha as-sabab,for this reason,connector
+1637,بيئة,bi-a,environment,noun
+1638,مناخ,manakh,climate,noun
+1639,تلوث,talawwuth,pollution,noun
+1640,إجازة,ijaza,leave;permission,noun
+1641,صحة عامة,sihha amma,public health,noun
+1642,يحصد,yahsud,harvest,verb
+1643,تكنولوجيا,tiknulujiyya,technology,noun
+1644,تقنية,tiqniyya,technology;technique,noun
+1645,خاتمة,khatima,conclusion;ending,noun
+1646,وسيلة إعلام,wasilat ilam,media outlet,noun
+1647,استطلاع رأي,istitala ray,opinion poll,noun
+1648,تنفيذ,tanfidh,implementation,noun
+1649,رقابة,riqaba,oversight;control,noun
+1650,إشراف,ishraf,supervision,noun
+1651,تنسيق,tansiq,coordination,noun
+1652,تفاعل,tafaul,interaction,noun
+1653,تبادل,tabadul,exchange,noun
+1654,مساهمة,musahama,contribution,noun
+1655,مبادرة,mubadara,initiative,noun
+1656,مؤتمر,mutamar,conference,noun
+1657,مستقبلي,mustaqbali,future,adjective
+1658,ندوة,nadwa,seminar,noun
+1659,ورشة,warsha,workshop,noun
+1660,محاضرة,muhadara,lecture,noun
+1661,اقتراح,iqtirah,proposal,noun
+1662,مشورة,mashura,consultation,noun
+1663,نصيحة,nasiha,advice,noun
+1664,توجيه,tawjih,guidance;direction,noun
+1665,تدبير,tadbir,measure;management,noun
+1666,إجراء,ijra,procedure;measure,noun
+1667,متطلب,mutatallab,requirement,noun
+1668,معيار,mi-yaar,criterion;standard,noun
+1669,تقدير,taqdir,estimate;appreciation,noun
+1670,تنبؤ,tanabbu,prediction,noun
+1671,فرضية,fardiyya,hypothesis,noun
+1672,منهج,manhaj,methodology,noun
+1673,منهجية,manhajiyya,methodology,noun
+1674,تعريف,tarif,definition,noun
+1675,تصنيف,tasnif,classification,noun
+1676,خاصية,khasiyya,property;feature,noun
+1677,ميزة,mayza,feature;advantage,noun
+1678,عيب,ayb,flaw;disadvantage,noun
+1679,نقطة قوة,nuqtat quwwa,strength,noun
+1680,نقطة ضعف,nuqtat da-f,weakness,noun
+1681,أهمية,ahammiyya,importance,noun
+1682,فائدة,fa-ida,benefit,noun
+1683,ضرر,darar,harm,noun
+1684,عقبة,aqaba,obstacle,noun
+1685,سلامة,salama,safety,noun
+1686,خصوصية,khususiyya,privacy,noun
+1687,سرية,sirriyya,confidentiality,noun
+1688,استقلال,istiqlal,independence,noun
+1689,تبعية,tabi-iyya,dependence,noun
+1690,وفقًا لـ,wifqan li,according to,preposition
+1691,بالنسبة إلى,bin-nisba ila,with regard to,preposition
+1692,واجبات,wajibat,duties,noun
+1693,فيما يتعلق بـ,fima yataallaq bi,regarding,preposition
+1694,زيادة,ziyāda,increase,noun
+1695,مسؤوليات,mas-uliyyat,responsibilities,noun
+1696,بدلاً من,badalan min,instead of,preposition
+1697,التزام,iltizam,commitment,noun
+1698,بغض النظر عن,bighadd an-nazar an,regardless of,preposition
+1699,امتثال,imtithal,compliance,noun
+1700,بهدف,bihadaf,with the aim of,preposition
+1701,انضباط,indibat,discipline,noun
+1702,موثوقية,mawthuqiyya,reliability,noun
+1703,بواسطة,biwasitat,by means of,preposition
+1704,شفافية,shafafiyya,transparency,noun
+1705,عوضًا عن,iwadan an,instead of,preposition
+1706,مصداقية,misdaqiyya,credibility,noun
+1707,تجاه,tijah,toward,preposition
+1708,سمعة,sum-a,reputation,noun
+1709,إلى جانب,ila janib,beside;in addition to,preposition
+1710,انطباع,intiba,impression,noun
+1711,بجانب,bijanib,beside,preposition
+1712,حافز,hafiz,incentive,noun
+1713,طوال,taw al,throughout,preposition
+1714,مكافأة,mukafa-a,reward,noun
+1715,عقب,uqb,following;after,preposition
+1716,ضريبة,dariba,tax,noun
+1717,دون,dun,without;below,preposition
+1718,رسوم,rusum,fees,noun
+1719,على نحو,ala nahw,in a way,phrase
+1720,أجر,ajr,wage;reward,noun
+1721,بصورة,bisura,in a manner,phrase
+1722,تمويل,tamwil,funding,noun
+1723,من ثم,min thamma,therefore,connector
+1724,سهم,sahm,share;stock,noun
+1725,ومن ثم,wa min thamma,and therefore,connector
+1726,زراعة,zira-a,agriculture,noun
+1727,منافس,munafis,competitor,noun
+1728,ومع هذا,wa ma-a hadha,nevertheless,connector
+1729,مستهلك,mustahlik,consumer,noun
+1730,على العكس,ala al-aks,on the contrary,connector
+1731,مؤهّل,mu-ahhil,qualification,noun
+1732,بالمقابل,bil-muqabil,by contrast,connector
+1733,سيرة,sira,biography;career,noun
+1734,في الحقيقة,fi al-haqiqa,in truth,connector
+1735,توظيف,tawzif,employment;recruitment,noun
+1736,بالإضافة إلى ذلك,bil-idafa ila dhalik,in addition,connector
+1737,ترقية,tarqiya,promotion,noun
+1738,على سبيل المثال,ala sabil al-mithal,for example,connector
+1739,مستقبلاً,mustaqbalan,in the future,adverb
+1740,استقالة,istiqala,resignation,noun
+1741,على وجه الخصوص,ala wajh al-khusus,in particular,connector
+1742,بعبارة أخرى,biibara ukhra,in other words,connector
+1743,دوام,dawam,working hours;continuity,noun
+1744,بمعنى آخر,bimana akhar,in other words,connector
+1745,موعد نهائي,mawid nihai,deadline,noun
+1746,أي أن,ay anna,that is to say,connector
+1747,تأخير,ta-khir,delay,noun
+1748,بمعنى أن,bimana anna,meaning that,connector
+1749,على الرغم من أن,ala ar-raghm min anna,although,conjunction
+1750,طبيعة,tabia,nature,noun
+1751,حتى وإن,hatta in,even if,conjunction
+1752,سواء ... أم,sawa ... am,whether ... or,conjunction
+1753,طقس,taqs,weather,noun
+1754,إما ... أو,imma ... aw,either ... or,conjunction
+1755,موسم,mawsim,season,noun
+1756,لا ... ولا,la ... wa la,neither ... nor,conjunction
+1757,ربيع,rabi,spring,noun
+1758,ليس فقط ... بل أيضًا,laysa faqat ... bal aydan,not only ... but also,construction
+1759,صيف,sayf,summer,noun
+1760,كلما ... كلما,kullama ... kullama,the more ... the more,construction
+1761,خريف,kharif,autumn,noun
+1762,بقدر ما,biqadr ma,as much as,conjunction
+1763,شتاء,shita,winter,noun
+1764,ما دام,ma dama,as long as,conjunction
+1765,حر,harr,heat,noun
+1766,ما لم,ma lam,unless,conjunction
+1767,عاصفة,asifa,storm,noun
+1768,قبل أن,qabl an,before,conjunction
+1769,برق,barq,lightning,noun
+1770,بعد أن,bad an,after,conjunction
+1771,رعد,rad,thunder,noun
+1772,من دون أن,min dun an,without,conjunction
+1773,فيضانات,fayadanat,floods,noun
+1774,بدون أن,bidun an,without,conjunction
+1775,زلزال,zilzal,earthquake,noun
+1776,بسبب أن,bisabab anna,because,conjunction
+1777,بركان,burkan,volcano,noun
+1778,جفاف,jafaf,drought,noun
+1779,نفايات,nifayat,waste,noun
+1780,قمامة,qumama,garbage,noun
+1781,رياح,riyah,winds,noun
+1782,محيط,muhit,ocean,noun
+1783,ساحل,sahil,coast,noun
+1784,شاطئ,shati,beach,noun
+1785,جزيرة,jazira,island,noun
+1786,صحراء,sahra,desert,noun
+1787,وادي,wadi,valley,noun
+1788,تلة,talla,hill,noun
+1789,حقل,haql,field,noun
+1790,تربة,turba,soil,noun
+1791,حماية البيئة,himayat al-bi-a,environmental protection,noun
+1792,احتباس حراري,ihtibas harari,global warming,noun
+1793,غاز,ghaz,gas,noun
+1794,نفط,naft,oil,noun
+1795,غاز طبيعي,ghaz tabi-i,natural gas,noun
+1796,فحم,fahm,coal,noun
+1797,معادن,maadin,minerals,noun
+1798,حديد,hadid,iron,noun
+1799,فضة,fidda,silver,noun
+1800,معدن,madan,metal;mineral,noun
+1801,ذرة,dhurra,atom,noun
+1802,جزيء,juzay,molecule,noun
+1803,خلية,khaliyya,cell,noun
+1804,نسيج,nasis,tissue,noun
+1805,بكتيريا,bakteriya,bacteria,noun
+1806,فيروس,virus,virus,noun
+1807,لقاح,liqqah,vaccine,noun
+1808,عدوى,adwa,infection,noun
+1809,وقاية,wiqaya,prevention,noun
+1810,تشخيص,tashkhis,diagnosis,noun
+1811,أعراض,arad,symptoms,noun
+1812,صيدلية,saydaliyya,pharmacy,noun
+1813,مرض مزمن,marad muzmin,chronic disease,noun
+1814,دماغ,dimagh,brain,noun
+1815,قراءة,qiraa,reading,noun
+1816,كتابة,kitaba,writing,noun
+1817,كلام,kalam,speech;talk,noun
+1818,استماع,istima,listening,noun
+1819,تذكّر,tadhakkur,remembering,noun
+1820,نسيان,nisyan,forgetting,noun
+1821,إبداع,ibda,creativity,noun
+1822,ابتكار,ibtikar,innovation,noun
+1823,اختراع,ikhtira,invention,noun
+1824,تجديد,tajdid,renewal,noun
+1825,مختبر,mukhtabar,laboratory,noun
+1826,تجربة علمية,tajriba ilmiyya,scientific experiment,noun
+1827,ملاحظة,mulahaza,observation,noun
+1828,مناقشة,munaqasha,discussion,noun
+1829,مرجع,marji,reference,noun
+1830,اقتباس,iqtibas,quotation,noun
+1831,حاشية,hashiya,footnote,noun
+1832,مجلد,mujallad,volume,noun
+1833,نسخة,nus-kha,copy;version,noun
+1834,طبعة,taba-a,edition;printing,noun
+1835,ناشر,nashir,publisher,noun
+1836,ملكية فكرية,milkiyya fikriyya,intellectual property,noun
+1837,إصدار,isdar,release;edition,noun
+1838,تحديث,tahdith,update,noun
+1839,تنزيل,tanzil,download,noun
+1840,تحميل,tahmil,upload,noun
+1841,محرك بحث,muharrik bahth,search engine,noun
+1842,كلمة مرور,kalimat murur,password,noun
+1843,خادم,khadim,server,noun
+1844,مجلد ملفات,mujallad malafat,folder,noun
+1845,نسخة احتياطية,nus-kha ihtiyatiyya,backup,noun
+1846,قرص,qurs,disk,noun
+1847,بطارية,battariyya,battery,noun
+1848,أبيض,abyad,white,adjective
+1849,شاحن,shahin,charger,noun
+1850,أسود,aswad,black,adjective
+1851,كابل,kabil,cable,noun
+1852,أحمر,ahmar,red,adjective
+1853,لوحة مفاتيح,lawhat mafatih,keyboard,noun
+1854,أزرق,azraq,blue,adjective
+1855,تنبيه,tanbih,warning;notice,noun
+1856,فأرة,fa-ra,mouse,noun
+1857,أخضر,akhdar,green,adjective
+1858,طابعة,tabi-a,printer,noun
+1859,أصفر,asfar,yellow,adjective
+1860,ملف صوتي,malaf sawti,audio file,noun
+1861,بني,bunni,brown,adjective
+1862,رمادي,ramadi,gray,adjective
+1863,شبكات اجتماعية,shabakat ijtimaiyya,social networks,noun
+1864,وردي,wardi,pink,adjective
+1865,إعجاب,ijab,like;approval,noun
+1866,برتقالي,burtuqali,orange-colored,adjective
+1867,موقع إلكتروني,mawqi ilikt r un i,website,noun
+1868,ذهبي,dhahabi,golden,adjective
+1869,رابط إلكتروني,rabit ilikt r un i,web link,noun
+1870,فضي,fiddi,silver-colored,adjective
+1871,بريد إلكتروني,barid ilikt r un i,email,noun
+1872,شفاف,shaffaf,transparent,adjective
+1873,رسالة نصية,risala nassiyya,text message,noun
+1874,مظلم,muzlim,dark,adjective
+1875,مضيء,mudii,bright,adjective
+1876,مصلحة,maslaha,interest;benefit,noun
+1877,ساخن,sakhin,hot,adjective
+1878,منفعة,manfaa,benefit,noun
+1879,بارد,barid,cold,adjective
+1880,جهد,juhd,effort,noun
+1881,دافئ,dafi,warm,adjective
+1882,أصل,asl,origin;source,noun
+1883,رطب,ratib,wet;humid,adjective
+1884,فرع,far,branch;subfield,noun
+1885,جاف,jaf,dry,adjective
+1886,جزء,juz,part,noun
+1887,قذر,qadhir,dirty,adjective
+1888,نصف,nisf,half,noun
+1889,ناضج,nadij,ripe;mature,adjective
+1890,ربع,rub,quarter,noun
+1891,طازج,tazij,fresh,adjective
+1892,باقي,baqi,remainder,noun
+1893,مؤثر,mu-aththir,influential;effective,adjective
+1894,مجموع,majmu,sum;total,noun
+1895,مؤكد,mu-akkad,certain;confirmed,adjective
+1896,ناجح,najih,successful,adjective
+1897,حد,hadd,limit,noun
+1898,فاشل,fashil,failed,adjective
+1899,قمة,qimma,peak;top,noun
+1900,متوفر,mutawaffir,available,adjective
+1901,قاع,qa,bottom,noun
+1902,مفقود,mafqūd,missing,adjective
+1903,مركز,markaz,center,noun
+1904,مطلوب,matlub,required;wanted,adjective
+1905,هامش,hamish,margin,noun
+1906,معروف,maruf,known,adjective
+1907,مساحة,masaha,area;space,noun
+1908,مجهول,majhul,unknown,adjective
+1909,لون,lawn,color,noun
+1910,مشهور,mashhur,famous,adjective
+1911,معاصر,muasir,contemporary,adjective
+1912,تاريخي,tarikhi,historical,adjective
+1913,دوري,dawri,periodic,adjective
+1914,محدود,mahdud,limited,adjective
+1915,غير محدود,ghayr mahdud,unlimited,adjective
+1916,قومي,qawmi,national;ethnic,adjective
+1917,علماني,ilmani,secular,adjective
+1918,إداري,idari,administrative,adjective
+1919,بالكامل,bil-kamil,completely,adverb
+1920,جزئيًا,juz-iyyan,partly,adverb
+1921,بشكل عام,bishakl amm,generally,adverbial phrase
+1922,بشكل خاص,bishakl khass,specifically,adverbial phrase
+1923,نادراً,nadir-an,rarely,adverb
+1924,فورًا,fawran,immediately,adverb
+1925,سابقًا,sabiqan,previously,adverb
+1926,منفردًا,munfaridan,alone;individually,adverb
+1927,بعناية,biinaya,carefully,adverb
+1928,بوضوح,biwuduh,clearly,adverb
+1929,ببساطة,bibasata,simply,adverb
+1930,بالتأكيد,bit-ta-kid,certainly,adverb
+1931,حتماً,hatman,certainly,adverb
+1932,عمليًا,amaliyyan,practically,adverb
+1933,نظريًا,nazariyyan,theoretically,adverb
+1934,علميًا,ilmiyyan,scientifically,adverb
+1935,رسميًا,rasmiyyan,officially,adverb
+1936,شخصيًا,shakhsiyyan,personally,adverb
+1937,عالميًا,alamiyyan,globally,adverb
+1938,محليًا,mahalliyyan,locally,adverb
+1939,حاليًا,haliyyan,currently,adverb
+1940,أولاً,awwal-an,first,adverb
+1941,تقليديًا,taqlidiyyan,traditionally,adverb
+1942,حديثًا,hadithan,recently;modernly,adverb
+1943,نسبيًا,nisbiyyan,relatively,adverb
+1944,عموماً,umuman,generally,adverb
+1945,بناءً على,bina-an ala,based on,adverbial phrase
+1946,تفسير,tafsir,interpretation;explanation,noun
+1947,توضيح,tawdih,clarification,noun
+1948,تأكيد,ta-kid,confirmation;emphasis,noun
+1949,نفي,nafi,negation,noun
+1950,استفهام,istifham,questioning,noun
+1951,تحذير,tahdhir,warning,noun
+1952,ادعاء,iddi-a,claim,noun
+1953,زعم,za-m,claim;allegation,noun
+1954,إشاعة,isha-a,rumor,noun
+1955,معقول,maqbul,reasonable,adjective
+1956,كذبة,kidhba,lie,noun
+1957,غير معقول,ghayr maqbul,unreasonable,adjective
+1958,نزعة,naza-a,tendency,noun
+1959,غير منطقي,ghayr mantiqi,illogical,adjective
+1960,اتجاه عام,ittijah amm,general trend,noun
+1961,مثالي,mithali,ideal,adjective
+1962,توجه,tawajjuh,orientation;trend,noun
+1963,طبيعي,tabii,natural,adjective
+1964,استراتيجية,istratijiyya,strategy,noun
+1965,مصطنع,mustana,artificial,adjective
+1966,تكتيك,taktik,tactic,noun
+1967,عادي,adi,ordinary,adjective
+1968,مجال,majal,field;domain,noun
+1969,استثنائي,istithnai,exceptional,adjective
+1970,قطاع,qita,sector,noun
+1971,مألوف,ma-luf,familiar,adjective
+1972,ميدان,maydan,field;arena,noun
+1973,غريب,gharib,strange,adjective
+1974,نطاق,nitaq,scope,noun
+1975,لازم,lazim,necessary,adjective
+1976,إطار,itar,framework,noun
+1977,مشروط,mashrut,conditional,adjective
+1978,نمط,namat,pattern,noun
+1979,مطلق,mutlaq,absolute,adjective
+1980,عنصر,unsur,element,noun
+1981,نسبي,nisbi,relative,adjective
+1982,مكون,mukawwin,component,noun
+1983,فريد,farid,unique,adjective
+1984,متغير,mutaghayyir,variable,noun
+1985,نموذجي,namudhaji,typical,adjective
+1986,ماض,mad,past,noun
+1987,فرعي,far-i,secondary;subordinate,adjective
+1988,حاضر,hadir,present,noun
+1989,متسلسل,mutasalsil,sequential,adjective
+1990,فترة,fatra,period,noun
+1991,متوازي,mutawazi,parallel,adjective
+1992,مدة,mudda,duration,noun
+1993,متقطع,mutaqatti,intermittent,adjective
+1994,ليلة,layla,night,noun
+1995,استجابة,istijaba,response,noun
+1996,رد,radd,reply;response,noun
+1997,رد فعل,radd fil,reaction,noun
+1998,عاقبة,aqiba,consequence,noun
+1999,مبرر,mubarrir,justification,noun
+2000,بديل,badil,alternative,noun
+2001,خيار,khiyar,option,noun
+2002,صعوبة,suuba,difficulty,noun
+2003,سهولة,suhula,ease,noun
+2004,عجز,ajz,inability,noun
+2005,خطأ,khata,mistake,noun
+2006,صواب,sawab,rightness,noun

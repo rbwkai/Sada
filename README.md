@@ -2,6 +2,8 @@
 
 **Sada** (صَدى) is a C++ based engine designed to process and manage Arabic vocabulary datasets using built-in datasets or custom CSV files.
 
+![Demo of Sada](demo.gif)
+
 
 ## How Sada Works
 

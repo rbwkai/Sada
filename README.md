@@ -3,30 +3,30 @@
 **Sada** (صَدى) is a C++ based engine designed to process and manage Arabic vocabulary datasets using built-in datasets or custom CSV files.
 
 
-## 🚀 Features
+## How Sada Works
 
-- **Arabic Vocabulary Engine**: Implements core logic (`sada.h`, `engine.cpp`) to handle flashcards, datasets, and vocabulary management.
+Sada makes mastering Arabic vocabulary seamless and structured:
 
-- **Database & File I/O**: Loads, parses, and manages datasets (such as `sada_arabic_2000.csv`).
+* **Clear Flashcards**: When you run Sada, it presents an Arabic word alongside its pronunciation guide and English translation.
 
-- **Card & Dataset Abstractions**: Separate modules (`card.cpp`, `dataset.cpp`, `db.cpp`) to handle flashcard management and scheduling logic.
+* **Smart Spaced Repetition**: Sada tracks your practice history and schedules timely word reviews to maximize long-term retention.
 
-- **Modern C++ & CMake Support**: Modular structure configured via `CMakeLists.txt` for easy compilation across platforms.
+* **Flexible Datasets**: Learn directly from the built-in 2,000-word Arabic dataset or load your own custom word lists.
 
 
-## 💻 Requirements
+## Requirements
 
 - **C++ Compiler**: GCC (10+), Clang (11+), or MSVC with C++17 support.
 - **CMake**: Version 3.10 or higher.
 - **Make** / **Ninja** Or any CMake-compatible build system.
 
 
-## 📦 Building and Running
+## Building and Running
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Sada.git
+git clone https://github.com/rbwkai/Sada.git
 cd Sada
 ```
 
@@ -50,7 +50,7 @@ cmake --build build
 .\build\Debug\Sada.exe
 ```
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
